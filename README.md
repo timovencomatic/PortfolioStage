@@ -13,9 +13,11 @@ Tijdens mijn stageperiode was ik actief binnen het R&D Control Technology team, 
 
 ### Individuele Doelstellingen
 
-## Werkzaamheden
-### Analyse
-### Ontwerp
+## Analyse
+### Requirements
+
+
+## Ontwerp
 ### Onderzoek
 ## Gebruikte Technieken
 
