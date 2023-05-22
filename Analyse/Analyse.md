@@ -1,11 +1,21 @@
 # Analyse
+## Inhoud
+1. [Introductie](#introductie)
+2. [Requirements](#requirements)
+3. [Stakeholder Schets](#stakeholder-schets)
+4. [Ontwikkel Omgeving](#ontwikkel-omgeving)
+
+## Introductie
+
 ## Requirements
 
-Het opstellen van requirements is een cruciale stap bij het starten van alle ICT-projecten. Het helpt bij het duidelijk definiëren van de doelen en verwachtingen van het project, en zorgt ervoor dat alle teamleden en stakeholders een gedeeld begrip hebben van wat er moet worden berijkt. Requirements stellen ons in staat om de projectomvang te bepalen, de taken te plannen en de voortgang te meten.
+Het opstellen van requirements is een belangrijke stap bij het starten van alle ICT-projecten. Het helpt bij het duidelijk definiëren van de doelen en verwachtingen van het project, en zorgt ervoor dat alle teamleden en stakeholders een gedeeld begrip hebben van wat er moet worden berijkt. Requirements stellen ons in staat om de projectomvang te bepalen, de taken te plannen en de voortgang te meten.
 
 Bovendien helpt het opstellen van requirements bij het managen van de verwachtingen van stakeholders en zorgt het voor transparantie en verantwoording. Het proces zorgt ervoor dat de behoeften en wensen van alle betrokkenen worden meegenomen en dat deze worden afgestemd op de technische mogelijkheden en beperkingen.
 
-In mijn ervaring met het opstellen van requirements heb ik te maken gehad met verschillende stakeholders, elk met hun eigen perspectieven, prioriteiten en verwachtingen. Het was mijn taak om deze verschillende meningen samen te brengen tot een enkele lijst van requirements. Dit proces was een balans tussen het respecteren van de inbreng van elke stakeholder. Door dit te doen, kon ik helpen bij het creëren van een duidelijke, gedeelde visie voor het project, wat cruciaal is voor het uiteindelijke succes ervan.
+In de ervaring van de student met het opstellen van requirements heeft hij te maken gehad met verschillende stakeholders, elk met hun eigen perspectieven, prioriteiten en verwachtingen. Het was zijn taak om deze verschillende meningen samen te brengen tot een enkele lijst van requirements. Dit proces was een balans tussen het respecteren van de inbreng van elke stakeholder. Door dit te doen, kon ik helpen bij het creëren van een duidelijke, gedeelde visie voor het project, wat belangrijk is voor het uiteindelijke succes ervan.
+
+Samen met het stagebedrijf is er besloten om enkel requirements op te stellen, het was niet nodig om deze om te zetten naar userstories zoals dat op school wel van de student verwacht word. In het sprint bord worden wel userstories gebruikt, deze zijn alleen niet helemaal uitgewerkt met een 'scenario', 'uitzondering' en 'uitkomst'. Hier is voor gekozen omdat de stakeholders al gewend zijn om te werken met requirements.
 
 | ID    | Description                                                                  | Quality & Constraint                                                                           | Priority |
 | ----- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------- |
@@ -62,6 +72,18 @@ In mijn ervaring met het opstellen van requirements heb ik te maken gehad met ve
 |       | FR = Functional Requirement                                                  |                                                                                                |          |
 |       | Q = Quality                                                                  |                                                                                                |          |
 |       | C = Contraint                                                                |                                                                                                |          |
+*[Requirements.xlsx](/Analyse/Requirements.xlsx)*
 
+## Stakeholder Schets
+Voordat de student aan zijn analyse begon, had een van de stakeholders al een schets gemaakt van hoe hij dacht dat het scherm eruit zou kunnen zien. Deze schets had aanzienlijk geholpen tijdens de analyse, omdat het de student in staat stelde om de visie van de stakeholder gemakkelijk te begrijpen. Het diende als een soort communicatiemiddel om de verwachtingen en wensen van de stakeholder over te brengen.
 
-## User Stories
+Deze schets werd later ook als een waardevolle inspiratiebron gebruikt voor de student tijdens de [ontwerpfase](/Ontwerp/Ontwerp.md). Hij kon de ideeën en concepten van de stakeholder gebruiken als basis voor zijn eigen [schermontwerp](/Ontwerp/Ontwerp.md/#schermschets). Door voort te bouwen op deze bestaande schets kon de student een ontwerp creëren die aansloot bij de oorspronkelijke visie van de stakeholder.
+
+![Scherm Schets](/Media/scherm_schets_analyse.png)
+
+## Ontwikkel Omgeving
+Voordat de student kon beginnen met het ontwikkelen van de applicatie, was het essentieel dat hij een goed begrip had van de systemen en applicaties die worden gebrukt binnen Vencomatic. Daarom heeft hij onderzoek gedaan en een overzicht gemaakt waarin de relaties tussen verschillende API's, databases en andere systemen worden beschreven. Deze schets, gemaakt door de student, bied een duidelijk inzicht in de betrokken systemen, waardoor de student kon vaststellen waar hij specifiek aan zou werken.
+
+Binnen dit project zal de focus liggen op de ontwikkeling van de Meggsius Connect webapplicatie. Dit houdt in dat de student ook zal moeten werken met de DFE-platform API en de SPF API. Door deze inzichten in de systeemarchitectuur kon de student zijn werkzaamheden gericht plannen en effectief samenwerken met de betreffende API's en systemen.
+
+![VencoSystemen](/Media/vencomatic_systemen.png)*[VencomaticSystemen.drawio](/Analyse/VencomaticSystemen.drawio)*
