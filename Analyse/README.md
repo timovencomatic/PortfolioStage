@@ -5,8 +5,11 @@
 3. [Stakeholder Schets](#stakeholder-schets)
 4. [Ontwikkel Omgeving](#ontwikkel-omgeving)
 
+---
 ## Introductie
 
+
+---
 ## Requirements
 
 Het opstellen van requirements is een belangrijke stap bij het starten van alle ICT-projecten. Het helpt bij het duidelijk definiëren van de doelen en verwachtingen van het project, en zorgt ervoor dat alle teamleden en stakeholders een gedeeld begrip hebben van wat er moet worden berijkt. Requirements stellen ons in staat om de projectomvang te bepalen, de taken te plannen en de voortgang te meten.
@@ -74,13 +77,15 @@ Samen met het stagebedrijf is er besloten om enkel requirements op te stellen, h
 |       | C = Contraint                                                                |                                                                                                |          |
 *[Requirements.xlsx](/Analyse/Requirements.xlsx)*
 
+---
 ## Stakeholder Schets
 Voordat de student aan zijn analyse begon, had een van de stakeholders al een schets gemaakt van hoe hij dacht dat het scherm eruit zou kunnen zien. Deze schets had aanzienlijk geholpen tijdens de analyse, omdat het de student in staat stelde om de visie van de stakeholder gemakkelijk te begrijpen. Het diende als een soort communicatiemiddel om de verwachtingen en wensen van de stakeholder over te brengen.
 
-Deze schets werd later ook als een waardevolle inspiratiebron gebruikt voor de student tijdens de [ontwerpfase](/Ontwerp/Ontwerp.md). Hij kon de ideeën en concepten van de stakeholder gebruiken als basis voor zijn eigen [schermontwerp](/Ontwerp/Ontwerp.md/#schermschets). Door voort te bouwen op deze bestaande schets kon de student een ontwerp creëren die aansloot bij de oorspronkelijke visie van de stakeholder.
+Deze schets werd later ook als een waardevolle inspiratiebron gebruikt voor de student tijdens de [ontwerpfase](/Ontwerp/README.md). Hij kon de ideeën en concepten van de stakeholder gebruiken als basis voor zijn eigen [schermontwerp](/Ontwerp/README.md/#schermschets). Door voort te bouwen op deze bestaande schets kon de student een ontwerp creëren die aansloot bij de oorspronkelijke visie van de stakeholder.
 
 ![Scherm Schets](/Media/scherm_schets_analyse.png)
 
+---
 ## Ontwikkel Omgeving
 Voordat de student kon beginnen met het ontwikkelen van de applicatie, was het essentieel dat hij een goed begrip had van de systemen en applicaties die worden gebrukt binnen Vencomatic. Daarom heeft hij onderzoek gedaan en een overzicht gemaakt waarin de relaties tussen verschillende API's, databases en andere systemen worden beschreven. Deze schets, gemaakt door de student, bied een duidelijk inzicht in de betrokken systemen, waardoor de student kon vaststellen waar hij specifiek aan zou werken.
 

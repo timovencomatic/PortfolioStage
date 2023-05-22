@@ -12,7 +12,7 @@ Een ontwerpdocument is een gestructureerd document dat de blauwdruk vormt voor h
 
 ---
 ## Schermschets
-De student heeft een gedetailleerde schermschets gemaakt, die tijdens de realisatiefase diende als waardevolle inspiratiebron. Deze schermschets is ontwikkeld op basis van de [requirments](/Analyse/Analyse.md/#requirements) die in samenwerking met de stakeholders zijn opgesteld. Door middel van samenwerking en verschillende iteraties, kon de student de schermschets aanpassen om zo aan alle eisen te voldoen die door de stakeholders waren opgesteld.
+De student heeft een gedetailleerde schermschets gemaakt, die tijdens de realisatiefase diende als waardevolle inspiratiebron. Deze schermschets is ontwikkeld op basis van de [requirments](/Analyse/README.md/#requirements) die in samenwerking met de stakeholders zijn opgesteld. Door middel van samenwerking en verschillende iteraties, kon de student de schermschets aanpassen om zo aan alle eisen te voldoen die door de stakeholders waren opgesteld.
 
 Uiteindelijk resulteerde dat proces in een schermschets die alle gewenste functionaliteiten en ontwerpelementen bevat, zoals overeengekomen met de stakeholders. Deze schermschets diende al seen leidraad tijdens de realisatiefase van het project, waarbij het de student streefde om een appllicatie te creëren die nauwkeurig overeenkwam met de initiële visie en vereisten.
 

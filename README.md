@@ -3,9 +3,9 @@
 1. [Introductie](#introductie)
 2. [Project Beschrijving](#projectbeschrijving)
 3. [Processen](#processen)
-    1. [Analyse](#analyse)
-    2. [Ontwerp](#ontwerp)
-    2. [Realisatie](#relalisatie)
+    - [Analyse](#analyse)
+    - [Ontwerp](#ontwerp)
+    - [Realisatie](#relalisatie)
 4. [Onderzoek](#onderzoek)
 5. [Conclusie](#conclusie)
 6. [Bijlagen](#bijlagen)
@@ -37,13 +37,13 @@ Daarnaast heeft de student een klein onderzoek uitgevoerd naar de bestaande syst
 
 Door deze analyse en het onderzoek naar de bestaande systemen kan de student een stevig fundament leggen voor het project, waarbij hij zowel rekening houd de verwachtingen van de stakeholders als rekening houdt met de bestaande systemen en infrastructuur van Vencomatic. Dit zal bijdragen aan een efficiënte uitvoering van het project.
 
-Voor meer informatie en een lijst met requirements klik [hier](/Analyse/Analyse.md).
+Voor meer informatie en een lijst met requirements klik [hier](/Analyse/README.md).
 
 ### Ontwerp
 
 Een ontwerpdocument is een gestructureerd document dat de blauwdruk vormt voor het ontwikkelen van een ICT-project. Het document bevat gedetailleerde informatie over de architectuur, functionalitei en technische specificaties. Het ontwerpdocument bevat verschillende elementen, waaronder schermschetsen, een database model en een dataflow model. Elk model of heeft een toelichting waarin wordt beschreven hoe de student tot deze uitkomst is gekomen en welke overwegingen hebben geleid tot bepaalde keuzes.
 
-Voor meer informatie over het ontwerp klik [hier](/Ontwerp/Ontwerp.md).
+Voor meer informatie over het ontwerp klik [hier](/Ontwerp/README.md).
 
 ### Realisatie
 
@@ -53,3 +53,5 @@ Voor meer informatie over het ontwerp klik [hier](/Ontwerp/Ontwerp.md).
 ## Conclusie
 ---
 ## Bijlagen
+
+[Pluimveeweb - Over Vencomatic](https://www.pluimveeweb.nl/kennispartner/vencomatic/over/)
