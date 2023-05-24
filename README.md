@@ -21,11 +21,13 @@ Vencomatic Group Eersel
 | 1.0    | 19-5-2023 | Timo Maas         | Aanvullen ontwerpdocument |
 | 1.1    | 22-5-2023 | Timo Maas         | Aanvullen analysedocument |
 | 1.2    | 23-5-2023 | Timo Maas         | Aanvullen realisatie      |
+
 *Versiebeheer*
 
 | Versie | Datum     | Aan                              | Notities                       |
 | ------ | --------- | -------------------------------- | ------------------------------ |
 | 1.2    | 24-5-2023 | Onno Marsman                     | Exclusief Onderzoek            |
+
 *Verspreiding*
 
 ---
