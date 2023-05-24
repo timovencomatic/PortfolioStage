@@ -11,7 +11,7 @@ Vencomatic Group Eersel
     - [Realisatie](#relalisatie)
 4. [Onderzoek](#onderzoek)
 5. [Conclusie](#conclusie)
-6. [Bijlagen](#bijlagen)
+6. [Bronnen](#bronnen)
 
 ## Versiebeheer & Verspreiding
 
@@ -21,12 +21,13 @@ Vencomatic Group Eersel
 | 1.0    | 19-5-2023 | Timo Maas         | Aanvullen ontwerpdocument |
 | 1.1    | 22-5-2023 | Timo Maas         | Aanvullen analysedocument |
 | 1.2    | 23-5-2023 | Timo Maas         | Aanvullen realisatie      |
+| 1.3    | 24-5-2023 | Timo Maas         | Aanvullen conclusie       |
 
 *Versiebeheer*
 
 | Versie | Datum     | Aan                              | Notities                       |
 | ------ | --------- | -------------------------------- | ------------------------------ |
-| 1.2    | 24-5-2023 | Onno Marsman                     | Exclusief Onderzoek            |
+| 1.3    | 24-5-2023 | Onno Marsman                     | Exclusief Onderzoek            |
 
 *Verspreiding*
 
@@ -40,7 +41,7 @@ Buiten de hoofdvestiging in Nederland, heeft Vencomatic Group ook vestigingen in
 
 Tijdens mijn stageperiode was ik actief binnen het R&D Control Technology team, dat verantwoordelijk is voor de ontwikkeling van IT- en OT-producten binnen de Vencomatic Group. Dit verslag biedt een diepgaand overzicht van mijn leerervaringen en bijdragen aan dit team en de organisatie als geheel.
 
-<!-- ![Venco Campus](/Media/venco_campus.jpg) -->
+![Venco Campus](/Media/venco_campus.jpg)
 
 ---
 ## Projectbeschrijving
@@ -111,7 +112,11 @@ Hieronder wordt een vergelijking gemaakt tussen het sprintbord van sprint 2 en d
 ---
 ## Conclusie
 
+Aan het einde van de stageperiode is door de student een product opgeleverd dat gereed is voor verdere ontwikkeling. Hoewel het nog niet volledig afgerond is, is er zorgvuldig rekening gehouden met de toekomstige mogelijkheden, waardoor het klaar is om in de toekomst te worden gebruikt.
 
+Hieronder is een screenshot toegevoegd waarop duidelijk te zien is hoe de dagtijdlijnen op het grote scherm linksboven worden weergegeven. Aan de rechterkant van het scherm bevinden zich de eigenschappen en kenmerken die van toepassing zijn op de geselecteerde dagtijdlijn en gebeurtenis. Onderaan het scherm bevindt zich een flocktijdlijn waar de gebruiker kan bepalen in welk moment in het flockschema een specifiek dagschema wordt toegepast.
+
+![Screenshot](/Media/screenshot.PNG)*Screenshot*
 
 ---
 ## Persoonlijke Reflectie
@@ -119,11 +124,13 @@ Voorafgaand aan de stageperiode stelde ik mezelf als doel om veel te leren over 
 
 Ik merkte ook dat ik moeite had met de achtergrondgeluiden van mensen die aan het praten of typen waren. Na de Covid-periode was ik gewend geraakt aan het werken in mijn eentje, vanuit huis, of op school met oortjes in.  Daarom vond ik het aanpassen aan de nieuwe werkomgeving moeilijk en werd ik snel afgeleid door geluiden, wat resulteerde in het vaak dragen van oortjes. Ik realiseer me nu dat dit moet veranderen wanneer je in een team werkt, niet alleen.
 
+Een ander aspect van het leren werken in een bedrijfsomgeving was wennen aan samenwerken binnen een team, waarbij feedback en het stellen van vragen centraal stonden. Een concreet voprbeeld hiervan was het vragen van feedback tijdens het ontwerpen van het selectiescherm voor een flockschema. Na het ontvangen van feedback van een collega, heb ik het ontwerp bijna volledig aangepast en zijn we samen aan de slag gegaan om een nieuwe schets te maken. Hoewel ik in eerste instantie een idee in mijn hoofd had, moest ik dat herzien omdat ik nu in een team werkte.
+
 Ik had ook vooraf een persoonlijk doel gesteld: het verbeteren van mijn presentatievaardigheden. Na een feedbacksessie met mijn stagecoördinator, waarbij ik tips kreeg na het geven van mijn eerste stagekring presentatie, heb ik me voorbereid op de volgende stagekring presentatie. Ik heb deze presentatie van tevoren geoefend met een medestudent die veel ervaring heeft met presenteren. Hij heeft me waardevolle tips en suggesties gegeven. Het effect hiervan was direct merkbaar tijdens de stagekring. Iedereen begreep duidelijk wat ik probeerde over te brengen, in tegenstelling tot de eerste keer.
 
 Op dit moment, terwijl ik deze tekst schrijf, heb ik nog niet de presentatie voor de gehele R&D afdeling gehad, wat de presentatie is waar ik het meest tegenop zag. Echter, na het oefenen en het geven van meerdere stagekring presentaties voel ik me veel zelfverzekerder dat ik deze presentatie goed zal gaan.
 
 ---
-## Bijlagen
+## Bronnen
 
 [Pluimveeweb - Over Vencomatic](https://www.pluimveeweb.nl/kennispartner/vencomatic/over/)

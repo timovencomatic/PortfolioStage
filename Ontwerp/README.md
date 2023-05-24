@@ -30,7 +30,7 @@ De schets van de stakeholder bood inzicht in de gewenste lay-out, functionalitei
 
 ---
 ## Database Model
-"Een datamodel laat de logische structuur van een database zien, inclusief de relaties en beperkingen die bepalen hoe gegevens opgeslagen en toegankelijk gemaakt kunnen worden. Een individuele database model wordt ontworpen op basis van de regels en concepten van een meer uitgebreid datamodel dat een ontwerper uitkiest om mee te werken." ([lucidchart.com](#bijlage))
+"Een datamodel laat de logische structuur van een database zien, inclusief de relaties en beperkingen die bepalen hoe gegevens opgeslagen en toegankelijk gemaakt kunnen worden. Een individuele database model wordt ontworpen op basis van de regels en concepten van een meer uitgebreid datamodel dat een ontwerper uitkiest om mee te werken." ([lucidchart.com](#bronnen))
 
 Het ontwikkelen van het afgebeelde database model was een iteratief proces, waarbij nauw werd samengewerkt met ervaren collega's. Deze collega's brachten waardevolle inzichten met betrekking tot naamgeving en werkwijzen. Door deze samenwerking, en het iteratieve karakter van het proces, waren er tijdens de implementatiefase van het project slechts minimale aanpassingen aan de database nodig. 
 
@@ -40,7 +40,7 @@ Een voorbeeld hiervan is het gebruik van language keys. Aangezien de applicatie 
 
 ---
 ## Dataflow
-"Een gegevensstroomdiagram (DFD) brengt de gegevensstroom van een proces of systeem in beeld. Het is de meest gebruikte vorm om duidelijk te maken hoe de processen binnen een systeem zich afspelen."([ictportal.nl](#bijlage))
+"Een gegevensstroomdiagram (DFD) brengt de gegevensstroom van een proces of systeem in beeld. Het is de meest gebruikte vorm om duidelijk te maken hoe de processen binnen een systeem zich afspelen."([ictportal.nl](#bronnen))
 
 In het onderstaande dataflow model is vastgesteld waar de data die door de applicatie gaat vandaan komt en waar deze naartoe gaat. Het project heeft de naam "Timetable" gekregen. Hoewel het model verschillende elementen bevat die buiten de scope van het project vallen, zoals het automatisch importeren en exporteren van data uit verschillende klimaatcomputers, is het voornamelijk ontwikkeld met het oog op de toekomst. Het doel is namelijk dat na de stageperiode iemand anders doorgaat met de ontwikkeling van deze applicatie.
 
@@ -49,7 +49,7 @@ In het onderstaande dataflow model is vastgesteld waar de data die door de appli
 ---
 ## Conclusie
 
-## Bijlage
+## Bronnen
 [ZuciSystems - Een Softwareontwerpdocument Maken](https://www.zucisystems.com/nl/blog/een-softwareontwerpdocument-maken/)
 
 [Lucidchart - Wat is een datamodel?](https://www.lucidchart.com/pages/nl/wat-is-een-datamodel)
