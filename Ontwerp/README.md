@@ -32,7 +32,6 @@ De schets van de stakeholder bood inzicht in de gewenste lay-out, functionalitei
 ## Database Model
 "Een datamodel laat de logische structuur van een database zien, inclusief de relaties en beperkingen die bepalen hoe gegevens opgeslagen en toegankelijk gemaakt kunnen worden. Een individuele database model wordt ontworpen op basis van de regels en concepten van een meer uitgebreid datamodel dat een ontwerper uitkiest om mee te werken." ([lucidchart.com](#bronnen))
 
-Het ontwikkelen van het afgebeelde database model was een iteratief proces, waarbij nauw werd samengewerkt met ervaren collega's. Deze collega's brachten waardevolle inzichten met betrekking tot naamgeving en werkwijzen. Door deze samenwerking, en het iteratieve karakter van het proces, waren er tijdens de implementatiefase van het project slechts minimale aanpassingen aan de database nodig. 
 
 Een voorbeeld hiervan is het gebruik van language keys. Aangezien de applicatie die word ontwikkeld beschikbaar moet zijn in verschillende talen word er een language key opgeslagen in de database. Door de samenwerking met collega's is dat meteen vanaf het begin toegevoegd, hierdoor was het toevoegen van vertalingen later gemakkelijk.
 
